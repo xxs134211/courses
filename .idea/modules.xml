@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Kcb.iml" filepath="$PROJECT_DIR$/Kcb.iml" />
+      <module fileurl="file://G:\java\Kcb\Kcb.iml" filepath="G:\java\Kcb\Kcb.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://G:\java\Kcb\app\app.iml" filepath="G:\java\Kcb\app\app.iml" />
     </modules>
   </component>
 </project>

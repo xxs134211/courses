@@ -9,7 +9,7 @@
         app:showAsAction="always"/>
     <item
         android:id="@+id/menu_about"
-        android:icon="@drawable/above"
-        android:title="关于"
-        app:showAsAction="always"/>
+        android:icon="@drawable/about1"
+        android:title="关于作者"
+        app:showAsAction="always" />
 </menu>
